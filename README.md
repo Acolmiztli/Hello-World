@@ -1,2 +1,3 @@
 # Hello-World
-Beginnings of Programming
+Beginnings of Programming!
+First line of code
